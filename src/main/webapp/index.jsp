@@ -35,7 +35,7 @@
 <body>
 
 <div class="card">
-    <h2>Welcome Sunil 👋</h2>
+    <h2>Welcome Sunil </h2>
     <p>Your Java Web Application has been deployed successfully!</p>
 
     <a class="button" href="hello">Click here to open Servlet</a>
